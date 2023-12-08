@@ -6,7 +6,7 @@ Just place the Jar in your `plugins/` folder on BungeeCord and restart the serve
 
 You can set the chat format in `config.yml` if your server uses a chat formatting plugin.  
 
-You can add sets of lyrics in `lyrics.yml` with &(x) color code support. You can use a set by its name in the file. If a set is named "song1", then do `/lyrics song1`.  
+You can add sets of lyrics in `lyrics.yml` with &(x) color/formatting code support. You can use a set by its name in the file. If a set is named "song1", then do `/lyrics song1`.  
 
 The chat format can be reloaded with `/lyrics reload`. The `lyrics.yml` doesn't need reloading as the relevant set is loaded when the command is executed.  
 
