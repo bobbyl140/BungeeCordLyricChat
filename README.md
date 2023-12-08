@@ -1,6 +1,6 @@
 # BungeeCordLyricChat
 
-This BungeeCord plugin allows server owners to have a bit of fun trolling their players with song lyrics. A similar command exists on SkittleMC (/loganpaul), but I wanted a reimplementation that could be user-configurable.  
+This BungeeCord plugin allows server owners to have a bit of fun trolling their players with song lyrics. A similar command exists on SkittleMC (`/loganpaul`), but I wanted a reimplementation that could be user-configurable.  
 
 Just place the Jar in your `plugins/` folder on BungeeCord and restart the server. The appropriate config files are generated for you.  
 
