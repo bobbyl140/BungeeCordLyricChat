@@ -1,0 +1,22 @@
+#########################
+# BungeeCord Lyric Chat #
+#########################
+
+# Set the below to the format of chat messages on your server(s).
+# This may be useful for chat plugins, including network-wide ones such as MultiChat.
+# Available placeholders:
+# "%PLAYER%" will be replaced with the player's username (according to BungeeCord).
+# "%MESSAGE" will be replaced with each lyric subsequently.
+# Sadly, implementing a way to get a player's
+# permissions prefix would require a plugin on
+# every Spigot server too. As that would make
+# this plugin a lot more complicated, it won't
+# be included. Additionally, this is developed
+# for a server that formats chat with a server's
+# "friendly name", which is not what BungeeCord
+# returns when asked what server a player is on.
+# As this would require depending on MultiChat,
+# thereby forcing it on anyone using this plugin,
+# it isn't being included.
+
+chat-format: "(Lyrics) %PLAYER% -> %MESSAGE%"

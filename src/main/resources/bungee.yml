@@ -1,0 +1,5 @@
+name: BungeeCordLyricChat
+version: '${project.version}'
+main: com.bobbyl140.bungeecordlyricchat.BungeeCordLyricChat
+author: bobbyl140
+description: Adds a command to make all players on a BungeeCord server sing!
