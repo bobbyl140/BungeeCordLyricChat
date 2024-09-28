@@ -2,6 +2,9 @@
 
 This BungeeCord plugin allows server owners to have a bit of fun trolling their players with song lyrics. A similar command exists on SkittleMC (`/loganpaul`), but I wanted a reimplementation that could be user-configurable.  
 
+> [!WARNING]  
+> I am not yet experienced enough with Java to use concurrency in here. Whoever runs the command will lock up for the duration of execution. I hope to fix this one day.
+
 Just place the Jar in your `plugins/` folder on BungeeCord and restart the server. The appropriate config files are generated for you.  
 
 You can set the chat format in `config.yml` if your server uses a chat formatting plugin.  
